@@ -23,3 +23,5 @@ Ou, executar `npm run cy:open` para abrir o Cypress em modo interativo.
 Executar `npm test:mobile` para rodar os testes em headless mode.
 
 Ou, executar `npm run cy:open:mobile` para abrir o Cypress em modo interativo.
+
+Teste
